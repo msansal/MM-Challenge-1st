@@ -12,7 +12,7 @@ Number of files:  24
 Total size of files:  4.0 MiB
 ```
 
-1. Prerequisites
+1. **Prerequisites**
 - Install AWS CLI
     [Install](https://docs.aws.amazon.com/es_es/cli/latest/userguide/installing.html) 
 - Configure AWS 
@@ -20,7 +20,7 @@ Total size of files:  4.0 MiB
 
   
 
-2. Use
+2. **Use**
 - Clone the repository
   ```sh
   git clone https://github.com/msansal/MM-Challenge-1st.git
