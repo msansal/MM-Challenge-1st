@@ -48,3 +48,5 @@ while IFS=' ' read -r line || [[ -n "$line" ]]; do
   NUM=$(($NUM +1))
 
  done < liste.txt
+ rm liste.txt size.txt size_tail.txt
+ exit
